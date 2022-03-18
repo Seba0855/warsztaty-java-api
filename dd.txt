@@ -1,0 +1,1 @@
+java.awt.Point[x=0,y=0]java.awt.Point[x=2,y=0]java.awt.Point[x=0,y=6]java.awt.Point[x=2,y=6]

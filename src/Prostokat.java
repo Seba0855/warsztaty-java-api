@@ -32,9 +32,11 @@ public class Prostokat {
         Point[] data = calculate();
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(nazwa_pliku, true));
+
             for (int x = 0; x < data.length; x++) {
                 writer.append(data[x].toString());
             }
+
             writer.close();
         } catch (IOException e) {
             e.printStackTrace();

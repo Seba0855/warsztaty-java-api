@@ -82,5 +82,10 @@ public class Main {
         KeyboardReader kr = new KeyboardReader();
         kr.reader();
 
+
+//        Prostokat prostokat = new Prostokat(0, 0, 6, 2);
+//        prostokat.save("dd.txt");
+
+
     }
 }
